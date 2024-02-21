@@ -589,10 +589,12 @@ img {
   position: relative;
 }
 .modal-input-info {
+  margin-top: 0;
+  height: 38px;
   width: 100%;
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
-  padding: 22px 24px;
+  padding: 8px 16px;
   padding-left: 38px;
   background-color: transparent;
   outline: 0px solid transparent;
