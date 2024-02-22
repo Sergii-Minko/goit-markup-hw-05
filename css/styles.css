@@ -418,7 +418,7 @@ img {
 }
 .footer .container {
   align-items: baseline;
-  gap: 120px;
+  /* gap: 120px; */
 }
 .footer-svg-block {
   width: 208px;
